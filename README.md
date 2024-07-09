@@ -1,1 +1,1 @@
-[# MateAcademy](https://mizanin15.github.io/MateAcademy/)
+https://mizanin15.github.io/MateAcademy/
